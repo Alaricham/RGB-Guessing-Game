@@ -2,7 +2,7 @@
   "name": "rgbgame",
   "version": "1.0.0",
   "description": "",
-  "main": "rgb.html",
+  "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
